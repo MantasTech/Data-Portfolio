@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Data analysis, data cleaning, data transformation | Cleaned up and organized data from a small pizza place, then set up a database in MySQL. Wrote SQL queries to pull out important information about orders, stock, and staff. After moving this database to Google Cloud, I linked it to Looker and built a interactive dashboard. |
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business. |
 
 ***
 
@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Cleaned up and organized data from a small pizza place, then set up a database in MySQL. Wrote SQL queries to pull out important information about orders, stock, and staff. After moving this database to Google Cloud, I linked it to Looker and built a interactive dashboard. | [Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9) |
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business. | [Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9) |
 
 
 ***
