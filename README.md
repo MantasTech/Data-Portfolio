@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business. |
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Data analysis, data tranformation, data manipulation | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business.
 
 ***
 
