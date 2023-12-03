@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🌍 [World Freedom](https://github.com/MantasTech/World-Freedom/blob/main/README.md) | Data Cleaning & EDA | Exploring global freedom data of 2020 to identify the top-performing countries worldwide and regionally, based on the World Freedom Index and rankings. | pandas, matplotlib, seaborn, numpy | 
+| 🌍 [World Freedom](https://github.com/MantasTech/World-Freedom/blob/main/World_Freedom_EDA.ipynb) | Data Cleaning & EDA | Exploring global freedom data of 2020 to identify the top-performing countries worldwide and regionally, based on the World Freedom Index and rankings. | pandas, matplotlib, seaborn, numpy | 
 
 
 ***
