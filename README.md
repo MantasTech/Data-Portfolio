@@ -5,6 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
+- [Tableau](#tableau)
 - [Looker](#looker)
 
 # SQL
@@ -19,9 +20,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🌍 [World Freedom](https://github.com/MantasTech/World-Freedom/blob/main/world_freedom_eda.ipynb)    | Data Wrangling & EDA | Exploring global freedom data of 2020 to identify the top-performing countries worldwide and regionally, based on the World Freedom Index and rankings. | pandas, numpy, matplotlib, seaborn |
-| ♞ [Best Chess Players](https://github.com/MantasTech/Chess-Players/blob/main/chess_players_project.ipynb)    | Data Wrangling| Cleaned and transformed data of 200k highest rated chess players in the world using Python. Clean data was used for Tableau visualization where I showcased best players in every country, and player distribution worldwide based on official FIDE title.  | pandas, numpy | 
+| 🌍 [World Freedom](https://github.com/MantasTech/World-Freedom/blob/main/world_freedom_eda.ipynb) | Data Wrangling & EDA | Exploring global freedom data of 2020 to identify the top-performing countries worldwide and regionally, based on the World Freedom Index and rankings. | pandas, numpy, matplotlib, seaborn |
+| ♞ [Best Chess Players](https://github.com/MantasTech/Chess-Players/blob/main/chess_players_project.ipynb) | Data Wrangling| Cleaned and transformed data of 200k highest rated chess players in the world using Python. Clean data was used for Tableau visualization where I showcased best players in every country, and player distribution worldwide based on official FIDE title. | pandas, numpy | 
 
+***
+
+# Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+| ♞ [Best Chess Players](https://github.com/MantasTech/Chess-Players/blob/main/chess_players_project.ipynb) | Cleaned and transformed data of 200k highest rated chess players in the world using Python. Clean data was used for Tableau visualization where I showcased best players in every country, and player distribution worldwide based on official FIDE title. | [Dashboard](https://public.tableau.com/app/profile/mantas.siukstas/viz/chess_17027630680570/Dashboard1) |
 
 ***
 
