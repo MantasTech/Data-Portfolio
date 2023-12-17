@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Data analysis, data tranformation, data manipulation | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business.
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Data analysis, data tranformation, data manipulation | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business.
 
 ***
 
@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🌍 [World Freedom](https://github.com/MantasTech/World-Freedom/blob/main/World_Freedom_EDA.ipynb) | Data Wrangling & EDA | Exploring global freedom data of 2020 to identify the top-performing countries worldwide and regionally, based on the World Freedom Index and rankings. | pandas, numpy, matplotlib, seaborn | 
+| 🌍 [World Freedom](https://github.com/MantasTech/World-Freedom/blob/main/world_freedom_eda.ipynb) | Data Wrangling & EDA | Exploring global freedom data of 2020 to identify the top-performing countries worldwide and regionally, based on the World Freedom Index and rankings. | pandas, numpy, matplotlib, seaborn | 
 
 
 ***
@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/Pizza%20Restaurant%20Project.md) | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business. | [Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9) |
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business. | [Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9) |
 
 
 ***
