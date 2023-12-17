@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Data analysis, data tranformation, data manipulation | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business.
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Data analysis, data tranformation, data manipulation | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
 
 ***
 
@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Made a relational database. Wrote SQL queries to pull out important information about orders, stock, and staff. Used Looker Studio to built a interactive dashboard to showcase the key metrics of the business. | [Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9) |
+| 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics. | [Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9) |
 
 
 ***
