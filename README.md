@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 🍕 [Pizza Restaurant](https://github.com/MantasTech/Restaurant-Database/blob/main/pizza_restaurant-project.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
-| 🚦 [Transport Sales Analysis (in progress)](https://github.com/MantasTech/Transport-Sales/blob/main/Transport%20Sales%20Analysis.md) | Data Analysis, Statistical Analysis | Performed data analysis of transportaion sales data in MySQL, utilizing queries and applying statistical analysis techniques such as RFM Analysis. Ultimately developed data visualization in Tableau to highlight my findings.
+| 🚦 [Transport Sales Analysis (in progress)](https://github.com/MantasTech/Transport-Sales/blob/main/Transport%20Sales%20Analysis.md) | Data Analysis, Statistical Analysis | Performed data analysis of transportaion sales data in MySQL, utilizing queries and applying statistical analysis techniques such as RFM Analysis.
 
 ***
 
